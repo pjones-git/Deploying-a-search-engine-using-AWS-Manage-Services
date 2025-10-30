@@ -16,7 +16,8 @@ A fully automated, serverless search engine built on AWS managed services that p
 
 ## 🏗️ Architecture
 
-![Architecture Diagram](./docs/architecture-diagram.png)
+<img width="689" height="513" alt="Screenshot 2025-10-29 at 7 00 12 PM" src="https://github.com/user-attachments/assets/a9c5425c-d8c0-4e2e-87f5-ce8d7a3d6cb1" />
+
 
 ### Architecture Flow
 1. **Source Control** → GitHub repository with automated CI/CD integration
