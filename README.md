@@ -16,7 +16,8 @@ A fully automated, serverless search engine built on AWS managed services that p
 
 ## 🏗️ Architecture
 
-<img width="689" height="513" alt="Screenshot 2025-10-29 at 7 00 12 PM" src="https://github.com/user-attachments/assets/a9c5425c-d8c0-4e2e-87f5-ce8d7a3d6cb1" />
+<img width="698" height="497" alt="Screenshot 2025-10-29 at 7 01 18 PM" src="https://github.com/user-attachments/assets/837a163b-9a9b-43ee-931e-ed526e68e7a6" />
+
 
 
 ### Architecture Flow
